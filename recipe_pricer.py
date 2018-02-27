@@ -1,6 +1,3 @@
-# TODO: Check Git updates.
-# TODO: And just one more time.
-
 import re
 import pickle
 import os
