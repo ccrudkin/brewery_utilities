@@ -1,4 +1,3 @@
-# TODO: Update all files in working directory to reflect current recipes and generate accurate reports.
 # TODO: Check Git updates.
 
 import re
