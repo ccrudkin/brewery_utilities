@@ -1,1 +1,1 @@
-Collection of utilities useful for brewery operations. Very much in-progress.
+Collection of utilities useful for brewery operations. In progress with mostly 'proofs of concept'.
